@@ -1,3 +1,27 @@
+// menu
+const openMenu  = document.querySelector(".menu")
+const navigation  = document.querySelector(".navigation")
+const closeMenu = document.querySelector(".close-menu")
+const link = document.querySelectorAll(".nav-link")
+
+openMenu.addEventListener("click", function(e){
+  e.preventDefault();
+  navigation.classList.add("active")
+})
+
+closeMenu.addEventListener("click", function(e){
+  e.preventDefault();
+  navigation.classList.remove("active")
+})
+
+link.forEach(e => {
+  e.addEventListener('click', function() {
+    navigation.classList.remove("active")
+  })
+});
+
+
+
 // swipper slider 1
 var swiper = new Swiper(".mySwiper-1", {
     slidesPerView: 3,
@@ -10,8 +34,21 @@ var swiper = new Swiper(".mySwiper-1", {
       navigation: {
         nextEl: ".arrow-right-1",
         prevEl: ".arrow-left-1",
-      }
-      
+      },
+      breakpoints: {
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 40,
+        },
+        1024: {
+          slidesPerView: 3,
+          spaceBetween: 50,
+        },
+      },
     },
   );
 
@@ -74,15 +111,19 @@ var swiper = new Swiper(".mySwiper-4", {
 var swiper = new Swiper(".testimonial-slider", {
     slidesPerView: 1 ,
     spaceBetween: 0,
-    loop: true,
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
+    },
+    navigation: {
+      nextEl: ".testimonial-btn-right",
+      prevEl: ".testimonial-btn-left",
     },
     // autoplay: {
     //     delay: 2500,
     //     disableOnInteraction: false,
     //   },
+   
     },
   );
 
@@ -100,4 +141,22 @@ var swiper = new Swiper(".instagram-slider", {
     //   delay: 2500,
     //   disableOnInteraction: false
     // }
+    breakpoints: {
+      320: {
+        slidesPerView: 2,
+        spaceBetween: 20,
+      },
+      768: {
+        slidesPerView: 4,
+        spaceBetween: 10,
+      },
+      1280: {
+        slidesPerView:6,
+        spaceBetween:10,
+      },
+      1366: {
+        slidesPerView:8,
+        spaceBetween:10,
+      }
+    },
   });

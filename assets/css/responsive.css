@@ -1,0 +1,627 @@
+@media (max-width:1600px) {
+    .account-login {
+        font-size: 13px;
+    }
+}
+@media (max-width:1440px) {
+    .container {
+        max-width: 1300px;
+    }
+    .arrow-right-1 {
+        position: absolute;
+        top: 40%;
+        right: -4%;
+        z-index: 1;
+    }
+    .arrow-left-1 {
+        position: absolute;
+        top: 40%;
+        left: -4%;
+        z-index: 1;
+    }
+    .arrow-style i {
+        color: white;
+        font-size: 20px;
+    }
+    .arrow-style {
+        height: 40px;
+        width: 40px;
+    }
+    .testimonial-name {
+        font-size: 32px;
+    }
+    .unique-theme-title {
+        font-size: 34px;
+    }
+    .unique-theme-text {
+        font-size: 15px;
+    }
+    .search, .login, .cart-side, .menu-icon {
+        margin: 0 11px;
+    }
+    #header {
+        padding: 15px 20px 0 40px;
+    }
+}
+@media (max-width:1414px) {
+    .under-line-1 {
+        top: 32%;
+    }
+    .under-line-2 {
+        top: 76%;
+    }
+}
+@media (max-width:1366px) {
+    .container {
+        max-width: 1220px;
+    }
+    #header {
+        padding: 15px 0 0 30px;
+    }
+    .unique-theme-title {
+        font-size: 32px;
+    }
+    .unique-theme-btm-title {
+        font-size: 43px;
+    }
+    .unique-theme {
+        padding: 150px 0 0 0;
+    }
+    .section-sub-title {
+        font-size: 54px;
+    }
+    .testimonial-btn-left {
+        top: 34%;
+    }
+    .testimonial-btn-right {
+        top: 34%;
+    }
+
+}
+@media (max-width:1280px) {
+    .search-icon {
+        font-size: 16px;
+        color: white;
+    }
+    .cart-icon {
+        font-size: 16px;
+        color: white;
+    }
+    .account-login {
+        font-size: 11px;
+        margin-top: -1px;
+        display: block;
+    }
+    img.img-fluid.shop-category-img {
+        margin-bottom: 60px;
+    }
+    .nav-link a {
+        font-size: 16px;
+    }
+    .arrow-style i {
+        font-size: 13px;
+    }
+    .arrow-style {
+        height: 30px;
+        width: 30px;
+    }
+    .arrow-left-1 {
+        left: -3%;
+    }
+    .arrow-right-1 {
+        right: -3%;
+    }
+    #footer {
+        margin-top: 60px;
+    }
+}
+@media (max-width:1220px) {
+    .container {
+        max-width: 1140px;
+    }
+    .nav-link a {
+        font-size: 14px;
+    }
+    .account-login {
+        font-size: 10px;
+    }
+    .unique-theme-title {
+        font-size: 30px;
+    }
+    .unique-theme-btm-title {
+        font-size: 36px;
+        top: -90px;
+    }
+    .unique-theme-text {
+        font-size: 13px;
+    }
+    .arrow-left-1 {
+        left: -3.2%;
+    }
+    .arrow-right-1 {
+        right: -3.2%;
+    }
+    .under-line-1 {
+        top: 33%;
+    }
+    .testimonial-name {
+        font-size: 30px;
+    }
+}
+@media (max-width:1028px) {
+    .container {
+        max-width: 993px;
+    }
+    .nav-link a {
+        font-size: 12px;
+    }   
+    .search-icon {
+        font-size: 14px;
+    }
+    .cart-icon {
+        font-size: 14px;
+    }
+    #header {
+        padding: 15px 0 0 15px;
+    }
+    .search, .login, .cart-side, .menu-icon {
+        margin: 0 7px;
+    }
+    .unique-theme-title {
+        font-size: 26px;
+    }
+    .unique-theme-img-1 {
+        top: -80px;
+    }
+    .unique-theme {
+        padding: 100px 0 0 0;
+    }
+    .unique-theme-text-area {
+        margin-top: 43px;
+    }
+    .unique-theme-btm-title {
+        font-size: 36px;
+        top: -75px;
+    }
+    .unique-theme-text {
+        font-size: 12px;
+    }
+    .section-sub-title {
+        font-size: 42px;
+    }
+    .categories-sub-hd {
+        font-size: 25px;
+    }
+    .shop-by-theme {
+        padding: 25px 0;
+    }
+    .theme-categories {
+        margin-top: 0px;
+    }
+    .category-content {
+        margin-bottom: 10px;
+    }
+    .arrow-left-1 {
+        left: -1.5%;
+    }
+    .arrow-right-1 {
+        right: -1.5%;
+    }   
+    .testimonial-name {
+        font-size: 25px;
+    }
+    .testimonial-content {
+        font-size: 20px;
+    }
+    .testimonial-sliders .products {
+        margin-top: 10px;
+    }
+    .testimonials-section {
+        padding-bottom: 30px;
+    }
+    .testimonial-btn-left {
+        top: 28%;
+        left: -6%;
+    }
+    .testimonial-btn-right {
+        top: 28%;
+        right: -6%;
+    }
+    .copy-right-para {
+        font-size: 18px;
+    }
+    .client-name {
+        font-size: 18px;
+    }
+    .footer-descrip {
+        font-size: 12px;
+    }
+    .links-title {
+        font-size: 22px;
+    }
+    .footer-link {
+        font-size: 14px;
+    }
+}
+@media (max-width:992px) {
+    ul.nav-area {
+        display: block;
+    }
+    .navigation {
+        position: absolute;
+        top: 0;
+        right: -100%;
+        background-color: #30809b;
+        height: 100vh;
+        width: 100%;
+        opacity: 0;
+        transition: 0.5s;
+        position: fixed;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+    }
+    .navigation.active {
+        right: 0;
+        opacity: 1;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .nav-link {
+        margin: 0 0 25px 20px;
+    }
+    .close-btn {
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 2%;
+        height: 40px;
+        width: 40px;
+        border-radius: 100%;
+        background-color: #00000063;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media (max-width:767px) {
+    #header {
+        padding: 15px 0px 0 10px;
+        position: absolute;
+        width: 100%;
+    }
+    ul.nav-area {
+        display: block;
+    }
+    .navigation {
+        position: absolute;
+        top: 0;
+        right: -100%;
+        background-color: #30809b;
+        height: 100vh;
+        width: 100%;
+        opacity: 0;
+        transition: 0.5s;
+        position: fixed;
+        z-index: 1;
+        display: flex;
+        align-items: center;
+    }
+    .navigation.active {
+        right: 0;
+        opacity: 1;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .nav-link {
+        margin: 0 0 25px 20px;
+    }
+    .close-btn {
+        display: block;
+        position: absolute;
+        top: 20px;
+        right: 2%;
+        height: 40px;
+        width: 40px;
+        border-radius: 100%;
+        background-color: #00000063;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .unique-theme {
+        padding: 40px 0 0 0;
+    }
+    .unique-theme .justify-content-end {
+        justify-content:center !important;
+    }
+    .unique-theme-title {
+        font-size: 22px;
+        text-align: center;
+    }
+    .unique-theme-img-1 {
+        top: 22px;
+        left: 0;
+    }
+    .unique-theme-img-2 {
+        top: 100px;
+        left: -24px;
+    }
+    .unique-theme-btm-title {
+        font-size: 35px;
+        font-family: var(--calibry-bold-font-family);
+        color: #5897ab;
+        position: relative;
+        top: 0;
+        left: 0;
+        margin-bottom: 25px;
+    }
+    .theme-disc {
+        font-size: 16px;
+    }
+    .theme-sub-disc {
+        font-size: 15px;
+    }
+    .unique-theme-btm-title br {
+        display: none;
+    }
+    .section-title {
+        font-size: 45px;
+    }
+    img.img-fluid.shop-category-img {
+        margin-bottom: 0px;
+        width: 100%;
+    }
+    .section-sub-title {
+        font-size: 48px;
+        margin-top: 30px;
+    }
+    .border-left-right {
+        margin-top: 30px;
+    }
+    .shop-by-theme {
+        padding: 40px 0;
+    }
+    .unique-theme-title {
+        text-align: start;
+    }
+    .testimonial-btn-right {
+        position: absolute;
+        top: 33%;
+        right: 23%;
+        z-index: 9999;
+    }
+    .testimonial-btn-left {
+        position: absolute;
+        top: 33%;
+        left: 23%;
+        z-index: 9999;
+    }
+    .explore-theme-img-area img {
+        width: 100%;
+    }
+    .explore-theme {
+        padding: 25px 20px 20px 20px;
+    }
+    .featured-products {
+        padding: 0px 0 10px 0;
+    }
+    .arrow-style {
+        display: none;
+    }
+    .swiper-slider-1 {
+        margin-bottom: 30px;
+    }
+    img.img-fluid.product-img {
+        margin-top: 20px;
+    }
+    .under-line-1 {
+        top: 36.3%;
+    }
+    .multiple-slider {
+        margin-bottom: 60px;
+    }
+    .under-line-2 {
+        top: 68.3%;
+    }
+    .testimonial-title, .instagram-sec-title {
+        font-size: 55px;
+        margin-bottom: 20px;
+    }
+    .testimonial-content {
+        font-size: 20px;
+        margin-bottom: 0;
+    }
+    #footer {
+        margin-top: 40px;
+        padding-top: 20px;
+    }
+    .copy-right-para {
+        font-size: 18px;
+    }
+    .client-name {
+        font-size: 18px;
+    }
+    #footer .justify-content-between {
+        justify-content: space-evenly!important;
+    }
+    .ordr-1 {
+        order: 1;
+    }
+    .footer-center-area {
+        margin-top: 20px;
+    }
+    .testimonials-section {
+        padding-bottom: 30px;
+    }
+    .testimonial-sliders .products {
+        margin-top: 0;
+    }
+}
+
+@media (max-width:480px) {
+    .search, .login, .cart-side, .menu-icon {
+        margin: 0 8px;
+    }
+    .unique-theme-title {
+        font-size: 14px;
+        text-align: start;
+    }
+    .unique-theme {
+        padding: 16px 0 0 0;
+    }
+    .unique-theme-img-1 {
+        top: 16px;
+        left: 0;
+    }
+    .unique-theme-img-2 {
+        top: 68px;
+        left: -24px;
+    }
+    .unique-theme-btm-title {
+        font-size: 25px;
+    }   
+    .section-sub-title {
+        font-size: 27px;
+        margin-top: 30px;
+    } 
+    .categories-sub-hd {
+        font-size: 20px;
+    }
+    .theme-disc {
+        font-size: 12px;
+    }
+    .theme-sub-disc {
+        font-size: 12px;
+    }
+    .explore-theme-title {
+        font-size: 35px;
+    }
+    .category-content {
+        font-size: 16px;
+    }
+    .swiper-slider-1 {
+        margin-bottom: 0px;
+    }
+    .testimonial-title, .instagram-sec-title {
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .testimonial-name {
+        font-size: 34px;
+    }
+    .copy-right-para {
+        font-size: 10px;
+    }
+    .client-name {
+        font-size: 10px;
+    }
+    .testimonial-content {
+        font-size: 15px;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .testimonial-btn-left {
+        position: absolute;
+        top: 21%;
+        left: 15%;
+        z-index: 9999;
+    }
+    .testimonial-btn-right {
+        position: absolute;
+        top: 22%;
+        right: 15%;
+        z-index: 9999;
+    }
+}
+@media (max-width:413px) {
+    .account-login {
+        font-size: 10px;
+    }
+    .search-icon {
+        font-size: 15px;
+    }
+    .cart-icon {
+        font-size: 15px;
+    }
+    .menu {
+        font-size: 15px;
+    }
+    .unique-theme-title {
+        font-size: 10px;
+        text-align: start;
+    }
+    .unique-theme-text {
+        font-size: 12px;
+    }
+    .unique-theme-btm-title {
+        font-size: 16px;
+    }
+    .section-title {
+        font-size: 30px;
+    }
+    .section-sub-title {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .border-left-right {
+        margin-top: 20px;
+    }
+    .categories-sub-hd {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+    .explore-theme-title {
+        font-size: 25px;
+    }
+    .products {
+        margin-top: 20px;
+    }
+    .under-line-1 {
+        top: 37.3%;
+    }
+    .under-line-2 {
+        top: 69%;
+    }
+    .testimonial-title, .instagram-sec-title {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    .testimonial-sliders {
+        margin-top: 18px;
+    }
+    .testimonial-btn-left {
+        position: absolute;
+        top: 21%;
+        left: 10%;
+        z-index: 9999;
+    }
+    .testimonial-btn-right {
+        position: absolute;
+        top: 21%;
+        right: 10%;
+        z-index: 9999;
+    }
+    .links-title {
+        font-size: 20px;
+    }
+    .footer-link {
+        font-size: 12px;
+    }
+    .footer-title {
+        font-size: 35px;
+    }
+    .footer-descrip {
+        font-size: 10px;
+    }
+    .copy-right-para {
+        font-size: 7px;
+    }
+    .unique-theme-img-2 {
+        top: 50px;
+        left: -24px;
+    }
+}
+
