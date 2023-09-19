@@ -1,76 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RJ Creative</title>
-    <link rel="shortcut icon" href="./assets/images/Logo.png" type="image/x-icon">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <link rel="stylesheet" href="./assets/css/reset.css">
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/responsive.css">
-</head>
-<body>
-    <header id="header">
-        <div class="container-fluid">
-            <div class="row align-items-center">
-                <div class="col-lg-2 col-3">
-                    <div class="logo">
-                        <img class="img-fluid" src="./assets/images/Logo.png" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-8 col">
-                    <nav class="navigation">
-                        <ul class="nav-area">
-                            <li class="nav-link">
-                                <a href="#">home</a>
-                            </li>
-                            <li class="nav-link">
-                                <a href="#">about us</a>
-                            </li>
-                            <li class="nav-link d-flex align-items-center">
-                                <a href="#">catogory</a>
-                                <i class="fa-solid fa-angle-down angle-down"></i>
-                            </li>
-                            <li class="nav-link d-flex align-items-center">
-                                <a href="#">products</a>
-                                <i class="fa-solid fa-angle-down angle-down"></i>
-                            </li>
-                            <li class="nav-link">
-                                <a href="#">shop by theme</a>
-                            </li>
-                            <li class="nav-link">
-                                <a href="#">contact us</a>
-                            </li>
-                        </ul>
-                        <div class="close-btn">
-                            <i class="fa-solid fa-xmark close-menu"></i>
-                        </div>
-                    </nav>
-                </div>
-                <div class="col-lg-2 col-8">
-                    <div class="header-right-area">
-                        <div class="search">
-                            <i class="fa-solid fa-magnifying-glass search-icon"></i>
-                        </div>
-                        <div class="login">
-                            <a class="account-login" href="#">account login</a>
-                        </div>
-                        <div class="cart-side position-relative">
-                            <i class="fa-solid fa-cart-shopping cart-icon"></i>
-                            <span class="cart-qntity">0</span>
-                        </div>
-                        <div class="menu-icon">
-                            <i class="fa-solid fa-bars menu"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
+<?php
+    include 'header.php';
+?>
     <main>
         <section class="hero-banner">
             <img class="img-fluid" src="./assets/images/hero-banner-img.png" alt="">
@@ -78,7 +8,7 @@
         <section class="unique-theme">
             <div class="container">
                 <div class="row justify-content-end">
-                    <div class="col-12 col-lg-9">
+                    <div class="col-12 col-md-12 col-lg-9">
                         <h3 class="unique-theme-title">Uniquely Themed Products to Invoke Inspiration, Wisdom & Mirth</h3>
                     </div>
                 </div>
@@ -211,7 +141,7 @@
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-11 col-lg-9">
+                    <div class="col-12 col-lg-9">
                         <div class="shop-theme-text-area">
                             <h3 class="unique-theme-title mt-4 text-start">It’s all about the theme</h3>
                             <p class="theme-disc">Our products feature a large variety of specific themes with meaningful messages. Some themes are associated with the personalities of historic and famous people, as well as philosophers, and the work of notable artists. Other themes center around particular subject matter. </p>
@@ -374,7 +304,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="swiper-pagination"></div>
+                                                <div class="swiper-pagination featured-third-slider-pagination"></div>
                                             </div>
                                         </div>
                                     </div>
@@ -472,58 +402,6 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="col-12">
-                        <div class="position-relative swipper-slider-2">
-                            <div class="swiper mySwiper-2">
-                                <div class="swiper-wrapper">
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-4.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-5.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-6.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-7.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-4.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-5.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-6.png" alt="">
-                                    </div>
-                                  </div>
-                                  <div class="swiper-slide">
-                                    <div class="products">
-                                        <img class="img-fluid product-img" src="./assets/images/products-img-7.png" alt="">
-                                    </div>
-                                  </div>
-                                </div>
-                            </div>
-                            <div class="swipper-slider-btn">
-                                <button class="arrow-left-2 arrow-style"><i class="fa-solid fa-arrow-left-long"></i></button>
-                                <button class="arrow-right-2 arrow-style"><i class="fa-solid fa-arrow-right-long"></i></button>
-                            </div>
-                        </div>
-                    </div> -->
                 </div>
             </div>
             <div class="container-fluid">
@@ -532,7 +410,7 @@
                         <div class="multiple-slider">
                             <div class="under-line-1"></div>
                             <div class="row align-items-center">
-                                <div class="col-12 col-lg-4">
+                                <div class="col-12 col-lg-4 pl-0">
                                     <div class="swipper-slider-3">
                                         <div class="swiper mySwiper-3">
                                             <div class="swiper-wrapper">
@@ -854,51 +732,49 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-8 col-lg-2">
-                        <div class="position-relative testimonial-sliders">
-                            <div class="swiper testimonial-slider">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="products">
-                                            <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
-                                            <h4 class="testimonial-name">Isabella John</h4>
-                                            <span class="testimonial-customer">customer</span>
-                                        </div>
+                    <div class="col-8 col-lg-3">
+                        <div class="swiper testimonial-slider">
+                            <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="testimonial">
+                                        <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
+                                        <h4 class="testimonial-name">Isabella John</h4>
+                                        <span class="testimonial-customer">customer</span>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="products">
-                                            <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
-                                            <h4 class="testimonial-name">Isabella John</h4>
-                                            <span class="testimonial-customer">customer</span>
-                                        </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial">
+                                        <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
+                                        <h4 class="testimonial-name">Isabella John</h4>
+                                        <span class="testimonial-customer">customer</span>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="products">
-                                            <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
-                                            <h4 class="testimonial-name">Isabella John</h4>
-                                            <span class="testimonial-customer">customer</span>
-                                        </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial">
+                                        <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
+                                        <h4 class="testimonial-name">Isabella John</h4>
+                                        <span class="testimonial-customer">customer</span>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="products">
-                                            <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
-                                            <h4 class="testimonial-name">Isabella John</h4>
-                                            <span class="testimonial-customer">customer</span>
-                                        </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial">
+                                        <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
+                                        <h4 class="testimonial-name">Isabella John</h4>
+                                        <span class="testimonial-customer">customer</span>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="products">
-                                            <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
-                                            <h4 class="testimonial-name">Isabella John</h4>
-                                            <span class="testimonial-customer">customer</span>
-                                        </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial">
+                                        <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
+                                        <h4 class="testimonial-name">Isabella John</h4>
+                                        <span class="testimonial-customer">customer</span>
                                     </div>
-                                    <div class="swiper-slide">
-                                        <div class="products">
-                                            <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
-                                            <h4 class="testimonial-name">Isabella John</h4>
-                                            <span class="testimonial-customer">customer</span>
-                                        </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="testimonial">
+                                        <img class="img-fluid testimonial-img" src="./assets/images/testimonial-img.png" alt="">
+                                        <h4 class="testimonial-name">Isabella John</h4>
+                                        <span class="testimonial-customer">customer</span>
                                     </div>
                                 </div>
                             </div>
@@ -917,183 +793,108 @@
                     <div class="col-12">
                         <h1 class="instagram-sec-title mb-2">Follow Us On Instagram</h1>
                     </div>
-                    <div class="swiper instagram-slider">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-4.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-5.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-6.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-4.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-5.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-6.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-1.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-2.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-3.png" alt="">
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="products">
-                                    <img class="img-fluid" src="./assets/images/instagram-follow-img-4.png" alt="">
-                                </div>
-                            </div>
+                    <div class="instagram-slider p-0">
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-1.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
                         </div>
                     </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-2.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-3.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-4.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-5.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-6.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-1.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-2.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-3.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-4.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-5.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-6.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-1.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-2.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-3.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="">
+                        <div class="instagram-profile position-relative">
+                            <img class="img-fluid profile-img-insta" src="./assets/images/instagram-follow-img-4.png" alt="">
+                            <a href="#"><img class="img-fluid instagram-icon-img" src="./assets/images/instagram-img.png" alt=""></a>
+                        </div>
+                    </div>   
+                    </div>     
                 </div>
             </div>
         </section>
     </main>
-    <footer id="footer">
-        <div class="container">
-            <div class="row justify-content-between">
-                <div class="col-6 col-lg-2">
-                    <div class="footer-right-area">
-                        <h3 class="links-title">Useful Links</h3>
-                        <ul class="useful-links">
-                            <li>
-                                <a class="footer-link" href="#">home</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">About Us</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">Category</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">Products</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">Shop By Theme</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-lg-5 ordr-1">
-                    <div class="footer-center-area text-center">
-                        <h1 class="footer-title">Sign Up Today!</h1>
-                        <p class="footer-descrip">First Time Subscribe Will be sent a code for 15% off a future purchase</p>
-                        <form class="email-form">
-                            <div class="email-area">
-                                <input class="input-email" type="email" name="" id="" placeholder="email address here...">
-                                <button type="submit" class="email-btn"><i class="fa-solid fa-paper-plane"></i></button>
-                            </div>
-                        </form>
-                        <div class="social-icons">
-                            <a class="social-icon" href="#">
-                                <i class="fa-brands facebook-icon fa-facebook-f"></i>
-                            </a>
-                            <a class="social-icon" href="#">
-                                <i class="fa-brands twitter-icon fa-twitter"></i>
-                            </a>
-                            <a class="social-icon" href="#">
-                                <i class="fa-brands intagram-icon fa-instagram"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-2">
-                    <div class="footer-left-area">
-                        <h3 class="links-title">Helpful links</h3>
-                        <ul class="useful-links">
-                            <li>
-                                <a class="footer-link" href="#">Contact Us</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">Returns</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">Terms & Conditions</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">Privacy Policy</a>
-                            </li>
-                            <li>
-                                <a class="footer-link" href="#">FAQ’s</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="copy-right-area">
-            <div class="container">
-                <div class="row justify-content-between align-items-center">
-                    <div class="col-7 col-lg-5">
-                        <p class="copy-right-para">©Copyright 2023 <a class="client-name" href="#">RJCreative.</a> All Right Reserved</p>
-                    </div>
-                    <div class="col-5 col-lg-3">
-                        <div class="footer-logo">
-                            <img class="img-fluid" src="./assets/images/footer-logo.png" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
-    <script src="./assets/js/index.js"></script>
-</body>
-</html>
+<?php
+    include 'footer.php';
+?>
