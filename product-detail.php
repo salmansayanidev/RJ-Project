@@ -270,7 +270,7 @@
                   </div>
                </div>
             </div>
-            <div class="categories-main-area active" id="cool" data-tab-content>
+            <div class="categories-main-area" id="cool" data-tab-content>
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">
@@ -388,7 +388,7 @@
                   </div>
                </div>
             </div>
-            <div class="categories-main-area active" id="tech" data-tab-content>
+            <div class="categories-main-area" id="tech" data-tab-content>
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">
@@ -506,7 +506,7 @@
                   </div>
                </div>
             </div>
-            <div class="categories-main-area active" id="bags" data-tab-content>
+            <div class="categories-main-area" id="bags" data-tab-content>
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">
@@ -624,7 +624,7 @@
                   </div>
                </div>
             </div>
-            <div class="categories-main-area active" id="wall" data-tab-content>
+            <div class="categories-main-area" id="wall" data-tab-content>
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">

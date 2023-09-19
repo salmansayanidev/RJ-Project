@@ -803,7 +803,7 @@
                                             </div>
                                         </div>
                                         <div class="col-12">
-                                            <img class="img-fluid star-img" src="./assets/images/stars.jpg" alt="">
+                                            <img class="img-fluid star-img" src="./assets/images/Stars.jpg" alt="">
                                         </div>
                                         <div class="col-12">
                                             <h4 class="mega-menu-main-sub-title">Themes</h4>
