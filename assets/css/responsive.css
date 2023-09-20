@@ -989,6 +989,9 @@
     .category-sb-title {
         font-size: 24px;
     }
+    .color-blk {
+        color: black !important;
+    }
 }
 @media (max-width:767px) {
     .product-info-section {

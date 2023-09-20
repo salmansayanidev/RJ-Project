@@ -443,7 +443,7 @@
                         </div>
                      </div>
                      <div class="col-12">
-                           <h1 class="category-sb-main-title">Mugs: Historic/Famous Peaple</h1>
+                           <h1 class="category-sb-main-title color-blk">Mugs: Historic/Famous Peaple</h1>
                            <div class="search-theme-title-area">
                               <h3 class="links-title">Abraham Lincoln Theme:</h3>
                            </div>
@@ -821,7 +821,7 @@
                         </div>
                      </div>
                      <div class="col-12">
-                           <h1 class="category-sb-main-title">Mugs: Historic/Famous Peaple</h1>
+                           <h1 class="category-sb-main-title color-blk">Mugs: Historic/Famous Peaple</h1>
                            <div class="search-theme-title-area">
                               <h3 class="links-title">Abraham Lincoln Theme:</h3>
                            </div>
@@ -1199,7 +1199,7 @@
                         </div>
                      </div>
                      <div class="col-12">
-                           <h1 class="category-sb-main-title">Mugs: Historic/Famous Peaple</h1>
+                           <h1 class="category-sb-main-title color-blk">Mugs: Historic/Famous Peaple</h1>
                            <div class="search-theme-title-area">
                               <h3 class="links-title">Abraham Lincoln Theme:</h3>
                            </div>
@@ -1577,7 +1577,7 @@
                         </div>
                      </div>
                      <div class="col-12">
-                           <h1 class="category-sb-main-title">Mugs: Historic/Famous Peaple</h1>
+                           <h1 class="category-sb-main-title color-blk">Mugs: Historic/Famous Peaple</h1>
                            <div class="search-theme-title-area">
                               <h3 class="links-title">Abraham Lincoln Theme:</h3>
                            </div>
@@ -1955,7 +1955,7 @@
                         </div>
                      </div>
                      <div class="col-12">
-                           <h1 class="category-sb-main-title">Mugs: Historic/Famous Peaple</h1>
+                           <h1 class="category-sb-main-title color-blk">Mugs: Historic/Famous Peaple</h1>
                            <div class="search-theme-title-area">
                               <h3 class="links-title">Abraham Lincoln Theme:</h3>
                            </div>
