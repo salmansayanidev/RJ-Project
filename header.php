@@ -33,7 +33,7 @@
                                 <a class="header-link" href="#">about us</a>
                             </li>
                             <li class="nav-link position-static align-items-center mega-menu-hover">
-                                <a class="header-link" href="javascript:void()">catogory</a>
+                                <a class="header-link" href="category-page.php">catogory</a>
                                 <i class="fa-solid fa-angle-down angle-down"></i>
                                 <div class="row">
                                     <div class="col-12">
@@ -803,7 +803,7 @@
                                             </div>
                                         </div>
                                         <div class="col-12">
-                                            <img class="img-fluid star-img" src="./assets/images/stars.jpg" alt="">
+                                            <img class="img-fluid star-img" src="./assets/images/Stars.jpg" alt="">
                                         </div>
                                         <div class="col-12">
                                             <h4 class="mega-menu-main-sub-title">Themes</h4>

@@ -15,6 +15,27 @@ navLinks.forEach(link => {
 
 
 
+// policies section
+
+const openSection = document.querySelectorAll(".open-section")
+
+openSection.forEach((opnSec) => {
+  opnSec.addEventListener('click', () => {
+    const isActive = opnSec.parentElement.classList.contains('active');
+
+    openSection.forEach((opnSection) => {
+      opnSection.parentElement.classList.remove('active');
+    });
+
+    if (!isActive) {
+      opnSec.parentElement.classList.add('active');
+    }
+  });
+});
+
+
+
+
 
 // menu
 const openMenu  = document.querySelector(".menu")
@@ -39,6 +60,23 @@ link.forEach(e => {
 });
 
 
+const megaCategoryLink = document.querySelectorAll('.mega-category-link')
+
+megaCategoryLink.forEach(megaCategory => {
+  megaCategory.addEventListener('click' , () => {
+    navigation.classList.remove('active')
+  })
+});
+
+const megaSubCategory = document.querySelectorAll('.mega-sub-category')
+
+megaSubCategory.forEach(megaSubCat => {
+  megaSubCat.addEventListener('click' , () => {
+    navigation.classList.remove('active')
+  })
+})
+
+
 // search popup
 function openSearch() {
   document.getElementById("myOverlay").style.display = "block";
@@ -55,7 +93,7 @@ const categoriesOPen = document.querySelectorAll(".main-menu-category")
 
 categoriesOPen.forEach((button) => {
   button.addEventListener('click', () => {
-    const isActive = button.classList.contains('active');
+    const isActive = button.parentElement.classList.contains('active');
 
     categoriesOPen.forEach((btn) => {
       btn.classList.remove('active');
@@ -300,24 +338,14 @@ tabs.forEach(tab => {
 
 
 
-const innerArea = document.querySelectorAll(".inner-img-area");
-const changeImgSrc = document.querySelectorAll(".change-img-src");
-const innerName = document.querySelectorAll(".change-inner-name");
-const innerDes = document.querySelectorAll(".change-inner-des");
 
 
-const changeName = document.querySelector(".change-name");
-const changeDes = document.querySelector(".change-des");
-const mainImgSrc = document.querySelector(".change-img");
-innerArea.forEach(area => {
-    area.addEventListener("click", () => {
-        const index = Array.from(innerArea).indexOf(area);
-        if (index !== -1 && changeImgSrc[index]) {
-            mainImgSrc.src = changeImgSrc[index].src;
-            changeName.textContent = innerName[index].textContent;
-            changeDes.textContent = innerDes[index].textContent;
-        }
-    });
-});
+
+
+
+
+
+
+
 
 

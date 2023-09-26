@@ -1,3 +1,6 @@
+
+
+
 // sub menu
 const catSbMenuOpen = document.querySelector('.category-side-bar')
 const sbMenuBtn = document.querySelector('.cate-sb-menu')
@@ -10,3 +13,6 @@ sbMenuBtn.addEventListener('click' , () => {
 closeCatSbMenu.addEventListener('click' , () => {
   catSbMenuOpen.classList.remove('active')
 })
+
+
+
