@@ -46,24 +46,24 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-2 col-md-2">
+                <div class="col-6 col-lg-3 col-md-2">
                     <div class="footer-left-area">
-                        <h3 class="links-title">Helpful links</h3>
+                        <h3 class="links-title">Store Policies</h3>
                         <ul class="useful-links">
                             <li>
-                                <a class="footer-link" href="#">Contact Us</a>
+                                <a class="footer-link" href="terms-of-services.php">Terms of Service</a>
                             </li>
                             <li>
-                                <a class="footer-link" href="#">Returns</a>
+                                <a class="footer-link" href="shipping-policy.php">Shipping Policy</a>
                             </li>
                             <li>
-                                <a class="footer-link" href="#">Terms & Conditions</a>
+                                <a class="footer-link" href="return-refund.php">Return Refund</a>
                             </li>
                             <li>
-                                <a class="footer-link" href="#">Privacy Policy</a>
+                                <a class="footer-link" href="privacy-policy.php">Privacy Policy</a>
                             </li>
                             <li>
-                                <a class="footer-link" href="#">FAQ’s</a>
+                                <a class="footer-link" href="copyright-trade-notice.php">Copyright and Trademark Notice</a>
                             </li>
                         </ul>
                     </div>
