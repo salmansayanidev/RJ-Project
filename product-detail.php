@@ -277,7 +277,7 @@
                   </div>
                </div>
             </div>
-<<<<<<< HEAD
+
 
             <!-- <div class="categories-main-area"  id="cool" data-tab-content>
                <div class="row align-items-center">
@@ -404,10 +404,13 @@
                   </div>
                </div>
             </div>
+
             <div class="categories-main-area" id="tech" data-tab-content>
-=======
+
             <div class="categories-main-area" id="cool" data-tab-content>
->>>>>>> b5e0df966ec00abaf54854701348007b04e4bda0
+
+
+            <div class="categories-main-area" id="cool" data-tab-content>
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">
@@ -531,11 +534,14 @@
                   </div>
                </div>
             </div>
-<<<<<<< HEAD
+
             <div class="categories-main-area" id="bags" data-tab-content>
-=======
+
             <div class="categories-main-area" id="tech" data-tab-content>
->>>>>>> b5e0df966ec00abaf54854701348007b04e4bda0
+
+
+            <div class="categories-main-area" id="tech" data-tab-content>
+
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">
@@ -659,11 +665,13 @@
                   </div>
                </div>
             </div>
-<<<<<<< HEAD
+
             <div class="categories-main-area" id="wall" data-tab-content>
-=======
+
             <div class="categories-main-area" id="bags" data-tab-content>
->>>>>>> b5e0df966ec00abaf54854701348007b04e4bda0
+
+            <div class="categories-main-area" id="bags" data-tab-content>
+
                <div class="row align-items-center">
                   <div class="col-12">
                      <div class="d-flex justify-content-between align-items-center">
@@ -786,10 +794,10 @@
                      </div>
                   </div>
                </div>
-<<<<<<< HEAD
+
             </div> -->
             
-=======
+
             </div>
             <div class="categories-main-area" id="wall" data-tab-content>
                <div class="row align-items-center">
@@ -909,7 +917,7 @@
                   </div>
                </div>
             </div>
->>>>>>> b5e0df966ec00abaf54854701348007b04e4bda0
+
          </div>  
       </div>
    </div>
