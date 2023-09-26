@@ -1338,6 +1338,7 @@ h3.category-pro-name {
     position: relative;
 }
 .color-blk {
+<<<<<<< HEAD
     color : black;
 }
 #canvas2{
@@ -1456,4 +1457,7 @@ p.store-policy-small-para {
 }
 .mb-20px {
     margin-bottom: 20px;
+=======
+    color: black;
+>>>>>>> b5e0df966ec00abaf54854701348007b04e4bda0
 }

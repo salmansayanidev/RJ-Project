@@ -1008,7 +1008,11 @@
         font-size: 24px;
     }
     .color-blk {
+<<<<<<< HEAD
         color : black !important;
+=======
+        color: black !important;
+>>>>>>> b5e0df966ec00abaf54854701348007b04e4bda0
     }
 }
 @media (max-width:767px) {
