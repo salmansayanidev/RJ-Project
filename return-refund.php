@@ -8,20 +8,22 @@
 
 <main>
     <section class="copyright-trade-notice">
+        <div class="shop-category-title-area">
+            <h1 class="store-policy-title">RJ Creative (<a class="clr-black" href="#">www.rjcreative.store</a>) Return/Refund Policy</h1>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="copy-right-content-area">
+                    
                         
-                        <h1 class="store-policy-title">RJ Creative (<a href="#">www.rjcreative.store</a>) Return/Refund Policy</h1>
+                        <p class="store-policy-para"><span class="fnt-weight-bold-600">Returns/Refunds (if applicable):</span>We (RJ Creative/www.rjcreative.store) have a 30-day Refund & Return policy, which means you have 30 days after receiving your purchased item to <span class="brdr-btm-1px">request</span> a Return and/or Refund. </p>
                         
-                        <p class="store-policy-para"><span class="fnt-weight-bold-600">Returns/Refunds (if applicable):</span>We (RJ Creative/www.rjcreative.store) have a 30-day Refund & Return policy, which means you have 30 days after receiving your purchased item to request a Return and/or Refund. </p>
-                        
-                        <p class="store-policy-para">Refunds are only granted under the following conditions/circumstances:</p>
+                        <p class="store-policy-para">Refunds are <span class="brdr-bmt-1px">only</span> granted under the <span class="brdr-btm-1px">following conditions/circumstances</span>:</p>
                         
                         <ul>
                             <li>
-                                <p class="store-policy-para">Damaged/defective items (excluding any damages incurred during shipping).</p>
+                                <p class="store-policy-para">Damaged/defective items (<span class="brdr-btm-1px">excluding</span> any damages incurred during shipping).</p>
                             </li>
                             <li>
                                 <p class="store-policy-para">Misprinted items (does not match the fulfillment information).</p>
@@ -44,7 +46,7 @@
                             <div class="click-section">
                                 <p class="store-policy-para mt-5px"><span class="fnt-weight-bold-600">Return/Refund Eligibility:</span>You must follow the 3 steps listed below on <span class="fnt-weight-bold-600">How to Initiate a Return or Refund</span> to be potentially eligible for a return and/or refund.  If retuning an item, your item must be in the same condition that you received it, unworn, unwashed, or unused, with all tags (if any), and in its original packaging.  You’ll also need to include a copy of the receipt or proof of purchase.</p>
                                 
-                                <p class="store-policy-para"><span class="fnt-weight-bold-600">For Defective or Damaged Items:</span>A picture must be included in your email return/refund request with a clear image resolution that clearly shows the defect or damage of the item in question.  Also include an explanation in simple language describing the nature of the contested issue.  A full credit in the form of a store gift card will be issued to you for item replacement (re-purchase), or you can use your store gift card for a different item on a new purchase.</p>
+                                <p class="store-policy-para"><span class="fnt-weight-bold-600">For Defective or Damaged Items:</span>A picture must be included in your email return/refund request with a clear image resolution that clearly shows the defect or damage of the item in question.  Also include an explanation in simple language describing the nature of the contested issue.  A full credit in the form of a store gift card will be issued to you for item replacement (re-purchase), or you can use your <span class="brdr-btm-1px">store gift card</span> for a different item on a new purchase.</p>
                             </div>
                         </div>
                         
@@ -55,7 +57,7 @@
                             <div class="click-section">
                                 <h4 class="store-policy-para fnt-weight-bold-600">Step 1:</h4>
                                 
-                                <p class="store-policy-para"><span class="fnt-weight-bold-600">A:</span>To start a return and/or a request for a refund, you must contact us at: <span class="fnt-weight-bold-600">service@rjcreative.shop</span>.  Include in your email, your “sales order number” and an explanation of the nature of the issue (e.g., damaged item, wrong item shipped or defective construction, wrong size, or color, etc.).</p>
+                                <p class="store-policy-para"><span class="fnt-weight-bold-600">A:</span>To start a return and/or a request for a refund, you <span class="brdr-btm-1px">must</span> contact us at: <span class="fnt-weight-bold-600">service@rjcreative.shop</span>.  Include in your email, your “sales order number” and an explanation of the nature of the issue (e.g., damaged item, wrong item shipped or defective construction, wrong size, or color, etc.).</p>
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-600">B:</span>Take a digital photograph (jpeg format) that clearly shows the defect, damage, or other issue with the item in question and explain in simple language the nature of the contested issue.</p>
                                 
@@ -78,7 +80,7 @@
                             <button type="button" class="open-section mb-10px">(Click to read section)</button>
 
                             <div class="click-section">
-                                <p class="store-policy-para"><span class="fnt-weight-bold-600">Refunds are only granted in the form of a store credit via a store “gift card”.</span>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not.  Some refunds can be accomplished if defects or damages can be documented via a digital picture without the need to return the item in question.  If approved, you will be automatically refunded by way of store credit via a store gift card.</p>
+                                <p class="store-policy-para"><span class="fnt-weight-bold-600">Refunds are only granted in the form of a <span class="brdr-btm-1px">store credit</span> via a store “gift card”.</span>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not.  Some refunds can be accomplished if defects or damages can be documented via a digital picture without the need to return the item in question.  If approved, you will be automatically refunded by way of store credit via a store gift card.</p>
 
                             </div>                    
                         </div>
@@ -104,7 +106,7 @@
 
                                 <p class="store-policy-para">When purchasing our products, <span class="fnt-weight-bold-600">YOU</span> agree that RJ Creative IS NOT responsible for damages due to mishandling of merchandise by the shipper of products to you.</p>
 
-                                <p class="store-policy-para">Please get in touch with us if you have questions or concerns about your specific item at this email: <span class="store-policy-para">service@rjcreative.shop</span></p>
+                                <p class="store-policy-para">Please get in touch with us if you have questions or concerns about your specific item at this email: <span class="fnt-weight-bold-600">service@rjcreative.shop</span></p>
                             </div>
                         </div>
 
@@ -113,7 +115,7 @@
                             <button type="button" class="open-section mb-10px">(Click to read section)</button>
 
                             <div class="click-section">
-                                <p class="store-policy-para">Exchanges may only be made where there has been a defect found with the originally purchased item (other than damages incurred during shipping), or the item shipped to you is different from what you originally ordered (e.g., size, color, type, etc.).   Exchanges are when you send back the item per our terms and if approved (exchange issue verified) we provide you with a refund by way of a store credit via a store gift card that can be used for any of our products.</p>
+                                <p class="store-policy-para">Exchanges may only be made where there has been a defect found with the originally purchased item (other than damages incurred during shipping), or the item shipped to you is different from what you originally ordered (e.g., size, color, type, etc.).   Exchanges are when you send back the item per our terms and if approved (exchange issue verified) we provide you with a refund by way of a <span class="brdr-btm-1px">store credit</span> via a <span class="brdr-btm-1px">store gift card</span> that can be used for any of our products.</p>
 
                                 <p class="store-policy-para">Please refer to the <span class="fnt-weight-bold-600">“How to Initiate a Return or Refund”</span> section above for instructions. </p>
                             </div>
@@ -124,7 +126,7 @@
                             <button type="button" class="open-section mb-10px">(Click to read section)</button>
 
                             <div class="click-section">
-                                <p class="store-policy-para">All purchases are FINAL and non-refundable EXCEPT for mistakes made by us where the product does not match the fulfillment information or the ordered item is delivered to you defective, (e.g., printed images are incorrect or placed incorrectly, the product is the wrong size, color, or type, stains, sewing or stitching errors, broken or missing components, etc.).  <span class="fnt-weight-bold-600">To be clear:</span> Defective does not mean damaged during the shipping process. The purchaser (YOU) is responsible for selecting the size and color of the item(s) you purchase.</p>
+                                <p class="store-policy-para"><span class="brdr-btm-1px">All purchases are FINAL and non-refundable</span> EXCEPT for mistakes made by us where the product does not match the fulfillment information or the ordered item is delivered to you <span class="brdr-btm-1px">defective</span>, (e.g., printed images are incorrect or placed incorrectly, the product is the wrong size, color, or type, stains, sewing or stitching errors, broken or missing components, etc.).  <span class="fnt-weight-bold-600">To be clear:</span> Defective does not mean damaged during the shipping process. The purchaser (YOU) is responsible for selecting the size and color of the item(s) you purchase.</p>
                             </div>
                         </div>
                     

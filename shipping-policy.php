@@ -8,12 +8,15 @@
 
 <main>
     <section class="copyright-trade-notice">
+        <div class="shop-category-title-area">
+            <h1 class="store-policy-title">RJ Creative (<a class="clr-black" href="#">www.rjcreative.shop</a> ) Shipping Policy</h1>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="copy-right-content-area">
                         
-                        <h1 class="store-policy-title">RJ Creative (<a href="#">www.rjcreative.shop</a> ) Shipping Policy</h1>
+                        
                         
                         <h3 class="store-policy-para fnt-weight-bold-700 mb-0">Shipping Parameters:</h3>
 
@@ -28,7 +31,7 @@
                                 <p class="store-policy-para mb-0">We charge for “shipping and handling” unless otherwise noted (per item).</p>
                             </li>
                             <li>
-                                <p class="store-policy-para">Item originating location:  Primarily California, and possibly various other regions in the United States.</p>
+                                <p class="store-policy-para">Item originating location:  <span class="brdr-btm-1px">Primarily California</span> , and possibly various other regions in the United States.</p>
                             </li>
                         </ul>
 

@@ -6,14 +6,16 @@
 
 <main>
     <section class="copyright-trade-notice">
+        <div class="shop-category-title-area">
+            <h1 class="store-policy-title">RJ Creative (<a class="clr-black" href="#">www.rjcreative.shop</a>) Privacy Policy</h1>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="copy-right-content-area">
                         
-                        <h1 class="store-policy-title">RJ Creative (<a href="#">www.rjcreative.shop</a>) Privacy Policy</h1>
                         
-                        <p class="store-policy-para">This Privacy Policy describes how RJ Creative (<a href="#">www.rjcreative.shop</a>), (the “Site” or “we”) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.</p>
+                        <p class="store-policy-para">This Privacy Policy describes how <span class="fnt-weight-bold-600">RJ Creative</span> (<a href="#">www.rjcreative.shop</a>), (the “Site” or “we”) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.</p>
                         
                         <div class="abc">
                             <h2 class="store-policy-sb-title mb-10px">Collecting Personal Information:</h2>
@@ -22,7 +24,7 @@
                             <div class="click-section">
                                 <p class="store-policy-para">When you visit the Site, we may collect certain information about your device, your interaction with the Site, and information necessary to process your purchases.  We may also collect additional information if you contact us for customer support.  In this Privacy Policy, we refer to any information that can uniquely identify an individual (including the information below) as “Personal Information”.  See the list below for more information about what Personal Information we collect and why.</p>
                                 
-                                <h5 class="store-policy-hd">Device information</h5>
+                                <h5 class="store-policy-hd brdr-btm-1px d-inline-block">Device information</h5>
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-700">Examples of Personal Information collected:</span>  Version of web browser, IP address, time zone, cookie information, what sites or products you view, search terms, and how you interact with the Site.</p>
                                 
@@ -32,7 +34,7 @@
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-700">Disclosure for a business purpose: </span>Shared with our various transaction processors, and with our fulfillment partners, including but not limited to Printful Inc., and our various affiliate marketing partners.  Regarding “Affiliate Marketing Partners”, we limit this information to specific information on items purchased (e.g., purchase history chronology, item pricing, item product number, etc.).  We do NOT share personal data with our “Affiliate Marketing Partners” (e.g., credit card or banking data, residential address, customer name, email, phone number, etc.).</p>
                                 
-                                <h5 class="store-policy-hd">Order information</h5>
+                                <h5 class="store-policy-hd brdr-btm-1px d-inline-block">Order information</h5>
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-700">Examples of Personal Information collected: </span>Name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.</p>
                                 
@@ -42,7 +44,7 @@
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-700">Disclosure for a business purpose: </span>Shared with our various payment processors, and our various fulfillment partners.</p>
                                 
-                                <h5 class="store-policy-hd">Customer support information</h5>
+                                <h5 class="store-policy-hd brdr-btm-1px d-inline-block">Customer support information</h5>
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-700">Examples of Personal Information collected: </span>Name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.</p>
                                 
@@ -85,15 +87,15 @@
                             <div class="click-section">
                                 <p class="store-policy-para">As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For example:</p>
                                 
-                                <p class="store-policy-para"><span class="fnt-weight-bold-700">We may use the following now or in the future,</span>Google Analytics to help us understand how our customers use the Site. You can read more about how Google uses your Personal Information here: <a href="#">https://policies.google.com/privacy?hl=en</a>. If applicable, you can also opt-out of Google Analytics here: <a href="#"> https://tools.google.com/dlpage/gaoptout</a>.</p>
+                                <p class="store-policy-para"><span class="fnt-weight-bold-700">We <span class="brdr-btm-1px">may</span> use the following now or in the future,</span>Google Analytics to help us understand how our customers use the Site. You can read more about how Google uses your Personal Information here: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a>. If applicable, you can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout"> https://tools.google.com/dlpage/gaoptout</a>.</p>
                                 
-                                <p class="store-policy-para">For more information about how targeted advertising works, you can visit the <span>Network</span> <span>Advertising</span> <span>Initiative’s</span> <span>(“NAI”)</span> educational page at <a href="#">http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work</a>.</p>
+                                <p class="store-policy-para">For more information about how targeted advertising works, you can visit the <span>Network</span> <span>Advertising</span> <span>Initiative’s</span> <span>(“NAI”)</span> educational page at <a href="https://thenai.org/about-online-advertising/faq/?tab=2">http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work</a>.</p>
                                 
                                 <p class="store-policy-para">You can opt out of targeted advertising by:</p> 
                                 
-                                <p class="store-policy-para">GOOGLE -  <a href="#">https://www.google.com/settings/ads/anonymous </a></p>  
+                                <p class="store-policy-para">GOOGLE -  <a href="https://myadcenter.google.com/home?hl=en&sasb=true&ref=ad-settings">https://www.google.com/settings/ads/anonymous </a></p>  
                                 
-                                <p class="store-policy-para">Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <a href="#">http://optout.aboutads.info/</a>.</p>
+                                <p class="store-policy-para">Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <a href="https://optout.aboutads.info/?c=2&lang=EN">http://optout.aboutads.info/</a>.</p>
                             </div>
                         </div>
                         
@@ -133,14 +135,14 @@
                             <div class="click-section">
                                 <p class="store-policy-para">We may update this Privacy Policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal, or regulatory reasons.</p>
                             </div>
-                       </div>
+                        </div>
                         
                         <div class="abc">
                             <h2 class="store-policy-sb-title mb-10px">Contact:</h2>
                             <button type="button" class="open-section mb-20px">(Click to read section)</button>
                             
                             <div class="click-section">
-                                <p class="store-policy-para">For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at:  service@rjcreative.shop or by mail using the details provided below:</p>
+                                <p class="store-policy-para">For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at: <span class="fnt-weight-bold-700">service@rjcreative.shop</span> or by mail using the details provided below:</p>
                                 
                                 <p class="store-policy-para"><span class="fnt-weight-bold-700">RJ Creative:</span>13217 Jamboree Rd, #273, Tustin CA 92782, United States</p>
                                 

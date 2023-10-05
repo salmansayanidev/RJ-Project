@@ -8,12 +8,14 @@
 
 <main>
     <section class="copyright-trade-notice">
+        <div class="shop-category-title-area">
+            <h1 class="store-policy-title">RJ Creative (<a class="clr-black" href="#">www.rjcreative.store</a> ) Terms of Service</h1>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="copy-right-content-area">
                         
-                        <h1 class="store-policy-title">RJ Creative (<a href="#">www.rjcreative.store</a> ) Terms of Service</h1>
                         
                         <h3 class="store-policy-para fnt-weight-bold-700">OVERVIEW</h3>
 
@@ -47,7 +49,7 @@
 
                                 <p class="store-policy-para">You understand that your content (not including credit card information), may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.  Credit card information is always encrypted during transfer over networks.</p>
 
-                                <p class="store-policy-para">You agree not to reproduce, duplicate, copy, sell, resell, or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.</p>
+                                <p class="store-policy-para">You agree <span class="brdr-btm-1px">not to</span> reproduce, duplicate, copy, sell, resell, or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.</p>
 
                                 <p class="store-policy-para">The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.</p>
                             </div>
@@ -140,13 +142,13 @@
                             <button type="button" class="open-section mb-10px">(Click to read section)</button>
                             
                             <div class="click-section">
-                                <p class="store-policy-para">If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate, and otherwise use in any medium any comments that you forward to us.  We are and shall be under no obligation (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.</p>
+                                <p class="store-policy-para">If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate, and otherwise use in any medium any comments that you forward to us.  We are and shall be <span class="brdr-btm-1px">under no obligation</span> (1) to maintain any comments in confidence; (2) to pay compensation for any comments; or (3) to respond to any comments.</p>
 
                                 <p class="store-policy-para mb-0">We may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene, or otherwise objectionable or violates any party’s intellectual property or these Terms of Service.</p>
 
                                 <p class="store-policy-para">You agree that your comments will not violate any right of any “third party”, including copyright, trademark, privacy, personality or other personal or proprietary right.  You further agree that your comments will not contain libelous or otherwise unlawful, abusive, or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website.</p>
 
-                                <p class="store-policy-para"><span class="fnt-weight-bold-700">You may not</span>use a false email address, pretend to be someone other than yourself, or otherwise mislead us or “third parties” as to the origin of any comments.  You are solely responsible for any comments you make and their accuracy.  We take no responsibility and assume no liability for any comments posted by you or any “third party”.</p>
+                                <p class="store-policy-para"><span class="fnt-weight-bold-700">You may not</span> use a false email address, pretend to be someone other than yourself, or otherwise mislead us or “third parties” as to the origin of any comments.  You are solely responsible for any comments you make and their accuracy.  We take no responsibility and assume no liability for any comments posted by you or any “third party”.</p>
                             </div>
                         </div>
 
@@ -256,7 +258,7 @@
                             <div class="click-section">
                                 <p class="store-policy-para mb-0">You can review the most current version of the Terms of Service at any time at this page.</p>
 
-                                <p class="store-policy-para">We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.</p>
+                                <p class="store-policy-para">We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. <span class="brdr-btm-1px">It is your responsibility to check our website periodically for changes</span>. Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.</p>
                             </div>
                         </div>
 
@@ -265,7 +267,7 @@
                            <button type="button" class="open-section mb-10px">(Click to read section)</button>
 
                             <div class="click-section">
-                                <p class="store-policy-para"><span class="fnt-weight-bold-700">All Sales Are Final:</span>All purchases are FINAL and non-refundable EXCEPT for mistakes made by us where the product does not match the fulfillment information or the purchase item(s) is delivered to you defective, (e.g., printed images are incorrect or placed incorrectly, the product is the wrong size, color, or type, has stains, has sewing or stitching errors, has broken or missing components, etc.).  <span class="fnt-weight-bold-700">To be clear:</span> Defective does not mean damaged during the shipping process.</p>
+                                <p class="store-policy-para"><span class="fnt-weight-bold-700">All Sales Are Final:</span><span class="brdr-btm-1px">All purchases are FINAL and non-refundable</span> EXCEPT for mistakes made by us where the product does not match the fulfillment information or the purchase item(s) is delivered to you <span class="brdr-btm-1px">defective</span>, (e.g., printed images are incorrect or placed incorrectly, the product is the wrong size, color, or type, has stains, has sewing or stitching errors, has broken or missing components, etc.).  <span class="fnt-weight-bold-700">To be clear:</span> Defective does not mean damaged during the shipping process.</p>
                             </div>
                         </div>
 

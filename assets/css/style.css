@@ -1364,7 +1364,7 @@ h3.category-pro-name {
 /* store policy */
 
 section.copyright-trade-notice {
-    padding: 25.6px 0;
+    padding: 0 0 25.6px 0;
 }
 
 h1.store-policy-title {
@@ -1372,7 +1372,8 @@ h1.store-policy-title {
     font-family: var(--poppins-font-family);
     font-weight: 700;
     text-align: center;
-    margin-bottom: 30px;
+    padding: 50px 0;
+    color: white;
 }
 
 .store-policy-para {
@@ -1384,12 +1385,11 @@ h1.store-policy-title {
     line-height: 1.4;
 }
 .copyright-trade-notice a {
-    text-decoration: none;
     transition: 0.3s;
 }
-.copyright-trade-notice a:hover {
+/* .copyright-trade-notice a:hover {
     color: var(--deep-sky-blue);
-}
+} */
 .fnt-weight-bold-600 {
     font-weight: 600
 }
@@ -1401,7 +1401,7 @@ h1.store-policy-title {
 }
 .store-policy-sb-title {
     font-family: var(--poppins-font-family);
-    font-size: 35px;
+    font-size: 22px;
     font-weight: 600;
     margin-bottom: 20px;
 }
@@ -1449,8 +1449,8 @@ p.store-policy-small-para {
     font-size: 12px;
     font-family: var(--poppins-font-family);
     font-weight: 600;
-    color: black;
-    border-bottom: 2px solid black;
+    color: #aa85fd !important;
+    border-bottom: 2px solid #aa85fd;
 }
 .mb-10px {
     margin-bottom: 10px;
@@ -1461,5 +1461,19 @@ p.store-policy-small-para {
     color: black;
 
     color: black;
-
+}
+.abc {
+    margin-bottom: 15px;
+}
+.brdr-btm-1px {
+    border-bottom: 1px solid black;
+}
+.copy-right-content-area {
+    margin-top: 30px;
+}
+.font-18px {
+    font-size: 18px;
+}
+.clr-black {
+    color: black;
 }

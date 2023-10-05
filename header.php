@@ -30,7 +30,7 @@
                                 <a class="header-link active" href="index.php">home</a>
                             </li>
                             <li class="nav-link click-close-menu">
-                                <a class="header-link" href="#">about us</a>
+                                <a class="header-link" href="about-us.php">about us</a>
                             </li>
                             <li class="nav-link position-static align-items-center mega-menu-hover">
                                 <a class="header-link" href="category-page.php">catogory</a>
